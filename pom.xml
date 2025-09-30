@@ -10,7 +10,6 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-        <!-- JUnit 5 -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
@@ -28,6 +27,5 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
 
